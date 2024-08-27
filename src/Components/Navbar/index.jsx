@@ -77,7 +77,7 @@ const Navbar = () => {
                     </NavLink>
                 </li>
                 <li>
-                    <i class="bi bi-cart-fill"></i> 0
+                    <i className="bi bi-cart-fill"></i> 0
                 </li>
             </ul>
 
